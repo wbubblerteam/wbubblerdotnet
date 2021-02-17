@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageIcon>wbbubler.png</PackageIcon>
+    <RepositoryUrl>https://github.com/thesilvercraft/Wbubbler</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/thesilvercraft/Wbubbler</PackageProjectUrl>
+    <RepositoryType>github</RepositoryType>
+    <Description>The Wbubbler Node.JS package ported to c#.</Description>
+    <Copyright>Original code Forevertoo, C# port SilverDImond</Copyright>
+    <Authors>Forevertoo, SilverDimond</Authors>
+    <Product>wbubbler</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wbbubler.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+</Project>

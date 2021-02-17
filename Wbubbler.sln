@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wbubbler", "Wbubbler\Wbubbler.csproj", "{EA8107B1-BF82-4B93-91D4-1D16909BF474}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTest", "WTest\WTest.csproj", "{D2283BB1-433C-44D7-91D3-A57E36BA7684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA8107B1-BF82-4B93-91D4-1D16909BF474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8107B1-BF82-4B93-91D4-1D16909BF474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8107B1-BF82-4B93-91D4-1D16909BF474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8107B1-BF82-4B93-91D4-1D16909BF474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2283BB1-433C-44D7-91D3-A57E36BA7684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2283BB1-433C-44D7-91D3-A57E36BA7684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2283BB1-433C-44D7-91D3-A57E36BA7684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2283BB1-433C-44D7-91D3-A57E36BA7684}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {402622A6-1474-4FD1-9ABE-88B7A758DC10}
+	EndGlobalSection
+EndGlobal
