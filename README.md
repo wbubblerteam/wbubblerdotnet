@@ -2,7 +2,7 @@
 The Wbubbler C# package.
 
 # How to install ?
-To install do these following commands: 
+To install use one of these following commands: 
  - Package Manager
    `Install-Package Wbubbler -Version 1.0.2`
  - .Net CLI
@@ -11,7 +11,7 @@ To install do these following commands:
    `<PackageReference Include="Wbubbler" Version="1.0.2" />`  
  - F# interactive
    `#r "nuget: Wbubbler, 1.0.2"`  
- - Nuget url
+ - Or download the package from NuGet
    https://www.nuget.org/packages/Wbubbler/  
 # How to use?
 ```csharp
@@ -28,6 +28,11 @@ namespace Wuse
         }
     }
 }
+```
+Or in minified c#
+```csharp
+using Wbubbler;
+wbu.bbler();
 ```
 # Copyright
 © SilverDimond - 2021
