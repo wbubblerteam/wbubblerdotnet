@@ -4,13 +4,13 @@ The Wbubbler C# package.
 # How to install ?
 To install do these following commands: 
  - Package Manager
-   `Install-Package Wbubbler -Version 1.0.1`
+   `Install-Package Wbubbler -Version 1.0.2`
  - .Net CLI
-    `dotnet add package Wbubbler --version 1.0.1`  
+    `dotnet add package Wbubbler --version 1.0.2`  
  - PackageReference
-   `<PackageReference Include="Wbubbler" Version="1.0.1" />`  
+   `<PackageReference Include="Wbubbler" Version="1.0.2" />`  
  - F# interactive
-   `#r "nuget: Wbubbler, 1.0.1"`  
+   `#r "nuget: Wbubbler, 1.0.2"`  
  - Nuget url
    https://www.nuget.org/packages/Wbubbler/  
 # How to use?
