@@ -1,6 +1,6 @@
 # wbubblerdotnet
-The Wbubbler C# package.
-
+The Wbubbler C# package.  
+[![CodeFactor](https://www.codefactor.io/repository/github/wbubblerteam/wbubblerdotnet/badge)](https://www.codefactor.io/repository/github/wbubblerteam/wbubblerdotnet)  
 # How to install ?
 To install use one of these following commands: 
  - Package Manager
