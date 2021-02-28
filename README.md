@@ -34,6 +34,26 @@ Or in minified c#
 using Wbubbler;
 wbu.bbler();
 ```
+Or in Visual Basic
+```vb
+Imports Wbubbler
+
+Module Wuse
+
+    Sub Main()
+        wbu.bbler()
+    End Sub
+
+End Module
+```
+Or in F#
+```fsharp
+open Wbubbler
+[<EntryPoint>]
+let main argv =
+    wbu.bbler()
+    0
+```
 # Copyright
 © SilverDimond - 2021
 
